@@ -23,10 +23,17 @@ $Visibility = if ($Private) { "--private" } else { "--public" }
 $FullRepo = "$Owner/$RepoName"
 
 gh auth status
+$PreviousErrorActionPreference = $ErrorActionPreference
+$ErrorActionPreference = "Continue"
 gh repo view $FullRepo *> $null
 $RepoExists = $LASTEXITCODE -eq 0
+$ErrorActionPreference = $PreviousErrorActionPreference
 if (-not $RepoExists) {
-    gh repo create $FullRepo $Visibility --source . --remote origin
+    if ((git remote) -contains "origin") {
+        gh repo create $FullRepo $Visibility --source .
+    } else {
+        gh repo create $FullRepo $Visibility --source . --remote origin
+    }
 }
 
 if ((git remote) -contains "origin") {
