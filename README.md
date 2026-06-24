@@ -149,19 +149,25 @@ Recommended Skills：SQL, Python, Machine Learning, Statistics
 
 ## 上传 GitHub
 
-当前机器需要先刷新 GitHub 登录：
+目标仓库：
+
+```text
+https://github.com/Yukinovo-I/AI-Career-Risk-Analytics
+```
+
+当前机器如果仍登录旧账号，需要先切换 GitHub CLI 登录：
 
 ```powershell
-gh auth refresh -h github.com
+gh auth logout -h github.com -u Yukino-O
+gh auth login -h github.com
 ```
 
 登录完成后运行：
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File scripts\upload_to_github.ps1 -RepoName AI-Career-Risk-Analytics
+powershell -ExecutionPolicy Bypass -File scripts\upload_to_github.ps1 -Owner Yukinovo-I -RepoName AI-Career-Risk-Analytics
 ```
 
 ## 作品集定位
 
 这是一个数据分析与风险建模作品集项目，强调数据管道、SQL仓库、可解释评分、Dashboard 和报告交付。样例数据用于演示方法论，不应直接当作真实就业预测结论。
-
