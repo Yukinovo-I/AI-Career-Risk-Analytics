@@ -1,0 +1,49 @@
+job_title,posting_year,avg_salary_usd,median_salary_usd,posting_count
+Basic Accountant,2023,56614.33,56980.0,3
+Basic Accountant,2024,58743.0,59959.0,3
+Basic Accountant,2025,58237.0,56990.0,3
+Basic Accountant,2026,62046.67,62768.0,3
+Business Analyst,2023,66471.67,66475.0,3
+Business Analyst,2024,74732.67,75213.0,3
+Business Analyst,2025,76074.0,73128.0,3
+Business Analyst,2026,81490.67,79871.0,3
+Cybersecurity Analyst,2023,96549.67,94993.0,3
+Cybersecurity Analyst,2024,110082.0,107162.0,3
+Cybersecurity Analyst,2025,121457.67,121746.0,3
+Cybersecurity Analyst,2026,141242.33,138673.0,3
+Data Analyst,2023,74008.0,73913.0,3
+Data Analyst,2024,77694.0,76147.0,3
+Data Analyst,2025,87653.0,87225.0,3
+Data Analyst,2026,95628.0,97151.0,3
+Data Engineer,2023,111658.33,113834.0,3
+Data Engineer,2024,122571.67,123358.0,3
+Data Engineer,2025,151971.33,151219.0,3
+Data Engineer,2026,165016.67,156871.0,3
+Data Entry Clerk,2023,43022.0,43139.0,3
+Data Entry Clerk,2024,42662.33,44447.0,3
+Data Entry Clerk,2025,40911.33,39670.0,3
+Data Entry Clerk,2026,40501.33,41356.0,3
+Financial Analyst,2023,87379.67,89161.0,3
+Financial Analyst,2024,92270.67,91562.0,3
+Financial Analyst,2025,101275.67,102749.0,3
+Financial Analyst,2026,100221.33,99970.0,3
+Machine Learning Engineer,2023,121842.0,124085.0,3
+Machine Learning Engineer,2024,141392.0,139943.0,3
+Machine Learning Engineer,2025,166795.33,173352.0,3
+Machine Learning Engineer,2026,191886.33,189681.0,3
+Manual Tester,2023,66716.67,64804.0,3
+Manual Tester,2024,68246.33,67766.0,3
+Manual Tester,2025,68453.67,67451.0,3
+Manual Tester,2026,68070.33,67865.0,3
+Quant Analyst,2023,112410.0,109285.0,3
+Quant Analyst,2024,128745.0,126204.0,3
+Quant Analyst,2025,151281.0,149231.0,3
+Quant Analyst,2026,169574.33,171193.0,3
+Risk Analyst,2023,82162.0,82371.0,3
+Risk Analyst,2024,89776.0,87700.0,3
+Risk Analyst,2025,92820.67,91988.0,3
+Risk Analyst,2026,110690.0,107520.0,3
+Software Engineer,2023,106986.0,107079.0,3
+Software Engineer,2024,110853.0,112244.0,3
+Software Engineer,2025,133625.33,136283.0,3
+Software Engineer,2026,145747.33,151196.0,3

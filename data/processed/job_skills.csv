@@ -1,0 +1,865 @@
+job_id,job_title,posting_year,salary_usd,skill
+J0001,Data Analyst,2023,73913.0,statistics
+J0001,Data Analyst,2023,73913.0,business analysis
+J0001,Data Analyst,2023,73913.0,tableau
+J0001,Data Analyst,2023,73913.0,sql
+J0001,Data Analyst,2023,73913.0,python
+J0001,Data Analyst,2023,73913.0,excel
+J0002,Data Analyst,2023,80276.0,business analysis
+J0002,Data Analyst,2023,80276.0,sql
+J0002,Data Analyst,2023,80276.0,tableau
+J0002,Data Analyst,2023,80276.0,statistics
+J0002,Data Analyst,2023,80276.0,python
+J0002,Data Analyst,2023,80276.0,excel
+J0003,Data Analyst,2023,67835.0,tableau
+J0003,Data Analyst,2023,67835.0,excel
+J0003,Data Analyst,2023,67835.0,python
+J0003,Data Analyst,2023,67835.0,statistics
+J0003,Data Analyst,2023,67835.0,sql
+J0003,Data Analyst,2023,67835.0,business analysis
+J0004,Risk Analyst,2023,81402.0,credit risk
+J0004,Risk Analyst,2023,81402.0,statistics
+J0004,Risk Analyst,2023,81402.0,model validation
+J0004,Risk Analyst,2023,81402.0,python
+J0004,Risk Analyst,2023,81402.0,excel
+J0004,Risk Analyst,2023,81402.0,sql
+J0005,Risk Analyst,2023,82713.0,excel
+J0005,Risk Analyst,2023,82713.0,model validation
+J0005,Risk Analyst,2023,82713.0,python
+J0005,Risk Analyst,2023,82713.0,credit risk
+J0005,Risk Analyst,2023,82713.0,sql
+J0005,Risk Analyst,2023,82713.0,statistics
+J0006,Risk Analyst,2023,82371.0,statistics
+J0006,Risk Analyst,2023,82371.0,model validation
+J0006,Risk Analyst,2023,82371.0,credit risk
+J0006,Risk Analyst,2023,82371.0,python
+J0006,Risk Analyst,2023,82371.0,excel
+J0006,Risk Analyst,2023,82371.0,sql
+J0007,Software Engineer,2023,114706.0,python
+J0007,Software Engineer,2023,114706.0,java
+J0007,Software Engineer,2023,114706.0,git
+J0007,Software Engineer,2023,114706.0,cloud
+J0007,Software Engineer,2023,114706.0,system design
+J0007,Software Engineer,2023,114706.0,sql
+J0008,Software Engineer,2023,107079.0,system design
+J0008,Software Engineer,2023,107079.0,git
+J0008,Software Engineer,2023,107079.0,python
+J0008,Software Engineer,2023,107079.0,sql
+J0008,Software Engineer,2023,107079.0,cloud
+J0008,Software Engineer,2023,107079.0,java
+J0009,Software Engineer,2023,99173.0,system design
+J0009,Software Engineer,2023,99173.0,git
+J0009,Software Engineer,2023,99173.0,cloud
+J0009,Software Engineer,2023,99173.0,python
+J0009,Software Engineer,2023,99173.0,java
+J0009,Software Engineer,2023,99173.0,sql
+J0010,Machine Learning Engineer,2023,113318.0,pytorch
+J0010,Machine Learning Engineer,2023,113318.0,mlops
+J0010,Machine Learning Engineer,2023,113318.0,python
+J0010,Machine Learning Engineer,2023,113318.0,cloud
+J0010,Machine Learning Engineer,2023,113318.0,sql
+J0010,Machine Learning Engineer,2023,113318.0,machine learning
+J0011,Machine Learning Engineer,2023,124085.0,python
+J0011,Machine Learning Engineer,2023,124085.0,pytorch
+J0011,Machine Learning Engineer,2023,124085.0,sql
+J0011,Machine Learning Engineer,2023,124085.0,machine learning
+J0011,Machine Learning Engineer,2023,124085.0,cloud
+J0011,Machine Learning Engineer,2023,124085.0,mlops
+J0012,Machine Learning Engineer,2023,128123.0,python
+J0012,Machine Learning Engineer,2023,128123.0,pytorch
+J0012,Machine Learning Engineer,2023,128123.0,cloud
+J0012,Machine Learning Engineer,2023,128123.0,sql
+J0012,Machine Learning Engineer,2023,128123.0,machine learning
+J0012,Machine Learning Engineer,2023,128123.0,mlops
+J0013,Data Engineer,2023,113834.0,data modeling
+J0013,Data Engineer,2023,113834.0,cloud
+J0013,Data Engineer,2023,113834.0,airflow
+J0013,Data Engineer,2023,113834.0,spark
+J0013,Data Engineer,2023,113834.0,python
+J0013,Data Engineer,2023,113834.0,sql
+J0014,Data Engineer,2023,114006.0,sql
+J0014,Data Engineer,2023,114006.0,airflow
+J0014,Data Engineer,2023,114006.0,python
+J0014,Data Engineer,2023,114006.0,cloud
+J0014,Data Engineer,2023,114006.0,data modeling
+J0014,Data Engineer,2023,114006.0,spark
+J0015,Data Engineer,2023,107135.0,sql
+J0015,Data Engineer,2023,107135.0,data modeling
+J0015,Data Engineer,2023,107135.0,python
+J0015,Data Engineer,2023,107135.0,spark
+J0015,Data Engineer,2023,107135.0,airflow
+J0015,Data Engineer,2023,107135.0,cloud
+J0016,Quant Analyst,2023,120180.0,machine learning
+J0016,Quant Analyst,2023,120180.0,sql
+J0016,Quant Analyst,2023,120180.0,financial modeling
+J0016,Quant Analyst,2023,120180.0,statistics
+J0016,Quant Analyst,2023,120180.0,python
+J0016,Quant Analyst,2023,120180.0,risk modeling
+J0017,Quant Analyst,2023,107765.0,risk modeling
+J0017,Quant Analyst,2023,107765.0,python
+J0017,Quant Analyst,2023,107765.0,sql
+J0017,Quant Analyst,2023,107765.0,statistics
+J0017,Quant Analyst,2023,107765.0,machine learning
+J0017,Quant Analyst,2023,107765.0,financial modeling
+J0018,Quant Analyst,2023,109285.0,risk modeling
+J0018,Quant Analyst,2023,109285.0,machine learning
+J0018,Quant Analyst,2023,109285.0,statistics
+J0018,Quant Analyst,2023,109285.0,sql
+J0018,Quant Analyst,2023,109285.0,financial modeling
+J0018,Quant Analyst,2023,109285.0,python
+J0019,Business Analyst,2023,66475.0,sql
+J0019,Business Analyst,2023,66475.0,power bi
+J0019,Business Analyst,2023,66475.0,excel
+J0019,Business Analyst,2023,66475.0,stakeholder management
+J0019,Business Analyst,2023,66475.0,statistics
+J0019,Business Analyst,2023,66475.0,process analysis
+J0020,Business Analyst,2023,66806.0,process analysis
+J0020,Business Analyst,2023,66806.0,sql
+J0020,Business Analyst,2023,66806.0,statistics
+J0020,Business Analyst,2023,66806.0,power bi
+J0020,Business Analyst,2023,66806.0,excel
+J0020,Business Analyst,2023,66806.0,stakeholder management
+J0021,Business Analyst,2023,66134.0,statistics
+J0021,Business Analyst,2023,66134.0,process analysis
+J0021,Business Analyst,2023,66134.0,stakeholder management
+J0021,Business Analyst,2023,66134.0,power bi
+J0021,Business Analyst,2023,66134.0,excel
+J0021,Business Analyst,2023,66134.0,sql
+J0022,Basic Accountant,2023,56980.0,bookkeeping
+J0022,Basic Accountant,2023,56980.0,tax
+J0022,Basic Accountant,2023,56980.0,reporting
+J0022,Basic Accountant,2023,56980.0,excel
+J0022,Basic Accountant,2023,56980.0,erp
+J0022,Basic Accountant,2023,56980.0,reconciliation
+J0023,Basic Accountant,2023,52370.0,erp
+J0023,Basic Accountant,2023,52370.0,bookkeeping
+J0023,Basic Accountant,2023,52370.0,excel
+J0023,Basic Accountant,2023,52370.0,reporting
+J0023,Basic Accountant,2023,52370.0,reconciliation
+J0023,Basic Accountant,2023,52370.0,tax
+J0024,Basic Accountant,2023,60493.0,bookkeeping
+J0024,Basic Accountant,2023,60493.0,reporting
+J0024,Basic Accountant,2023,60493.0,reconciliation
+J0024,Basic Accountant,2023,60493.0,tax
+J0024,Basic Accountant,2023,60493.0,excel
+J0024,Basic Accountant,2023,60493.0,erp
+J0025,Data Entry Clerk,2023,43139.0,data entry
+J0025,Data Entry Clerk,2023,43139.0,crm
+J0025,Data Entry Clerk,2023,43139.0,excel
+J0025,Data Entry Clerk,2023,43139.0,quality check
+J0025,Data Entry Clerk,2023,43139.0,typing
+J0025,Data Entry Clerk,2023,43139.0,documentation
+J0026,Data Entry Clerk,2023,45082.0,crm
+J0026,Data Entry Clerk,2023,45082.0,quality check
+J0026,Data Entry Clerk,2023,45082.0,data entry
+J0026,Data Entry Clerk,2023,45082.0,typing
+J0026,Data Entry Clerk,2023,45082.0,documentation
+J0026,Data Entry Clerk,2023,45082.0,excel
+J0027,Data Entry Clerk,2023,40845.0,data entry
+J0027,Data Entry Clerk,2023,40845.0,quality check
+J0027,Data Entry Clerk,2023,40845.0,documentation
+J0027,Data Entry Clerk,2023,40845.0,excel
+J0027,Data Entry Clerk,2023,40845.0,crm
+J0027,Data Entry Clerk,2023,40845.0,typing
+J0028,Manual Tester,2023,63477.0,api testing
+J0028,Manual Tester,2023,63477.0,test cases
+J0028,Manual Tester,2023,63477.0,jira
+J0028,Manual Tester,2023,63477.0,documentation
+J0028,Manual Tester,2023,63477.0,manual testing
+J0028,Manual Tester,2023,63477.0,excel
+J0029,Manual Tester,2023,71869.0,api testing
+J0029,Manual Tester,2023,71869.0,jira
+J0029,Manual Tester,2023,71869.0,documentation
+J0029,Manual Tester,2023,71869.0,excel
+J0029,Manual Tester,2023,71869.0,manual testing
+J0029,Manual Tester,2023,71869.0,test cases
+J0030,Manual Tester,2023,64804.0,jira
+J0030,Manual Tester,2023,64804.0,manual testing
+J0030,Manual Tester,2023,64804.0,api testing
+J0030,Manual Tester,2023,64804.0,documentation
+J0030,Manual Tester,2023,64804.0,test cases
+J0030,Manual Tester,2023,64804.0,excel
+J0031,Financial Analyst,2023,81336.0,python
+J0031,Financial Analyst,2023,81336.0,financial modeling
+J0031,Financial Analyst,2023,81336.0,sql
+J0031,Financial Analyst,2023,81336.0,excel
+J0031,Financial Analyst,2023,81336.0,power bi
+J0031,Financial Analyst,2023,81336.0,forecasting
+J0032,Financial Analyst,2023,91642.0,sql
+J0032,Financial Analyst,2023,91642.0,excel
+J0032,Financial Analyst,2023,91642.0,python
+J0032,Financial Analyst,2023,91642.0,power bi
+J0032,Financial Analyst,2023,91642.0,financial modeling
+J0032,Financial Analyst,2023,91642.0,forecasting
+J0033,Financial Analyst,2023,89161.0,excel
+J0033,Financial Analyst,2023,89161.0,financial modeling
+J0033,Financial Analyst,2023,89161.0,sql
+J0033,Financial Analyst,2023,89161.0,python
+J0033,Financial Analyst,2023,89161.0,power bi
+J0033,Financial Analyst,2023,89161.0,forecasting
+J0034,Cybersecurity Analyst,2023,104454.0,siem
+J0034,Cybersecurity Analyst,2023,104454.0,cloud
+J0034,Cybersecurity Analyst,2023,104454.0,risk assessment
+J0034,Cybersecurity Analyst,2023,104454.0,sql
+J0034,Cybersecurity Analyst,2023,104454.0,network security
+J0034,Cybersecurity Analyst,2023,104454.0,python
+J0035,Cybersecurity Analyst,2023,94993.0,python
+J0035,Cybersecurity Analyst,2023,94993.0,network security
+J0035,Cybersecurity Analyst,2023,94993.0,sql
+J0035,Cybersecurity Analyst,2023,94993.0,cloud
+J0035,Cybersecurity Analyst,2023,94993.0,risk assessment
+J0035,Cybersecurity Analyst,2023,94993.0,siem
+J0036,Cybersecurity Analyst,2023,90202.0,risk assessment
+J0036,Cybersecurity Analyst,2023,90202.0,siem
+J0036,Cybersecurity Analyst,2023,90202.0,network security
+J0036,Cybersecurity Analyst,2023,90202.0,sql
+J0036,Cybersecurity Analyst,2023,90202.0,python
+J0036,Cybersecurity Analyst,2023,90202.0,cloud
+J0037,Data Analyst,2024,76147.0,statistics
+J0037,Data Analyst,2024,76147.0,tableau
+J0037,Data Analyst,2024,76147.0,business analysis
+J0037,Data Analyst,2024,76147.0,excel
+J0037,Data Analyst,2024,76147.0,sql
+J0037,Data Analyst,2024,76147.0,python
+J0038,Data Analyst,2024,71630.0,business analysis
+J0038,Data Analyst,2024,71630.0,statistics
+J0038,Data Analyst,2024,71630.0,python
+J0038,Data Analyst,2024,71630.0,sql
+J0038,Data Analyst,2024,71630.0,tableau
+J0038,Data Analyst,2024,71630.0,excel
+J0039,Data Analyst,2024,85305.0,tableau
+J0039,Data Analyst,2024,85305.0,excel
+J0039,Data Analyst,2024,85305.0,sql
+J0039,Data Analyst,2024,85305.0,statistics
+J0039,Data Analyst,2024,85305.0,business analysis
+J0039,Data Analyst,2024,85305.0,python
+J0040,Risk Analyst,2024,96497.0,credit risk
+J0040,Risk Analyst,2024,96497.0,model validation
+J0040,Risk Analyst,2024,96497.0,excel
+J0040,Risk Analyst,2024,96497.0,sql
+J0040,Risk Analyst,2024,96497.0,statistics
+J0040,Risk Analyst,2024,96497.0,python
+J0041,Risk Analyst,2024,87700.0,python
+J0041,Risk Analyst,2024,87700.0,sql
+J0041,Risk Analyst,2024,87700.0,credit risk
+J0041,Risk Analyst,2024,87700.0,statistics
+J0041,Risk Analyst,2024,87700.0,excel
+J0041,Risk Analyst,2024,87700.0,model validation
+J0042,Risk Analyst,2024,85131.0,python
+J0042,Risk Analyst,2024,85131.0,excel
+J0042,Risk Analyst,2024,85131.0,sql
+J0042,Risk Analyst,2024,85131.0,statistics
+J0042,Risk Analyst,2024,85131.0,credit risk
+J0042,Risk Analyst,2024,85131.0,model validation
+J0043,Software Engineer,2024,112368.0,python
+J0043,Software Engineer,2024,112368.0,cloud
+J0043,Software Engineer,2024,112368.0,sql
+J0043,Software Engineer,2024,112368.0,system design
+J0043,Software Engineer,2024,112368.0,git
+J0043,Software Engineer,2024,112368.0,java
+J0044,Software Engineer,2024,107947.0,cloud
+J0044,Software Engineer,2024,107947.0,python
+J0044,Software Engineer,2024,107947.0,git
+J0044,Software Engineer,2024,107947.0,sql
+J0044,Software Engineer,2024,107947.0,java
+J0044,Software Engineer,2024,107947.0,system design
+J0045,Software Engineer,2024,112244.0,git
+J0045,Software Engineer,2024,112244.0,sql
+J0045,Software Engineer,2024,112244.0,cloud
+J0045,Software Engineer,2024,112244.0,python
+J0045,Software Engineer,2024,112244.0,java
+J0045,Software Engineer,2024,112244.0,system design
+J0046,Machine Learning Engineer,2024,150039.0,cloud
+J0046,Machine Learning Engineer,2024,150039.0,sql
+J0046,Machine Learning Engineer,2024,150039.0,python
+J0046,Machine Learning Engineer,2024,150039.0,machine learning
+J0046,Machine Learning Engineer,2024,150039.0,pytorch
+J0046,Machine Learning Engineer,2024,150039.0,mlops
+J0047,Machine Learning Engineer,2024,139943.0,python
+J0047,Machine Learning Engineer,2024,139943.0,sql
+J0047,Machine Learning Engineer,2024,139943.0,mlops
+J0047,Machine Learning Engineer,2024,139943.0,machine learning
+J0047,Machine Learning Engineer,2024,139943.0,pytorch
+J0047,Machine Learning Engineer,2024,139943.0,cloud
+J0048,Machine Learning Engineer,2024,134194.0,mlops
+J0048,Machine Learning Engineer,2024,134194.0,python
+J0048,Machine Learning Engineer,2024,134194.0,machine learning
+J0048,Machine Learning Engineer,2024,134194.0,sql
+J0048,Machine Learning Engineer,2024,134194.0,cloud
+J0048,Machine Learning Engineer,2024,134194.0,pytorch
+J0049,Data Engineer,2024,111652.0,sql
+J0049,Data Engineer,2024,111652.0,cloud
+J0049,Data Engineer,2024,111652.0,spark
+J0049,Data Engineer,2024,111652.0,data modeling
+J0049,Data Engineer,2024,111652.0,python
+J0049,Data Engineer,2024,111652.0,airflow
+J0050,Data Engineer,2024,132705.0,python
+J0050,Data Engineer,2024,132705.0,airflow
+J0050,Data Engineer,2024,132705.0,sql
+J0050,Data Engineer,2024,132705.0,spark
+J0050,Data Engineer,2024,132705.0,cloud
+J0050,Data Engineer,2024,132705.0,data modeling
+J0051,Data Engineer,2024,123358.0,sql
+J0051,Data Engineer,2024,123358.0,airflow
+J0051,Data Engineer,2024,123358.0,python
+J0051,Data Engineer,2024,123358.0,data modeling
+J0051,Data Engineer,2024,123358.0,cloud
+J0051,Data Engineer,2024,123358.0,spark
+J0052,Quant Analyst,2024,123932.0,statistics
+J0052,Quant Analyst,2024,123932.0,machine learning
+J0052,Quant Analyst,2024,123932.0,financial modeling
+J0052,Quant Analyst,2024,123932.0,risk modeling
+J0052,Quant Analyst,2024,123932.0,sql
+J0052,Quant Analyst,2024,123932.0,python
+J0053,Quant Analyst,2024,126204.0,sql
+J0053,Quant Analyst,2024,126204.0,risk modeling
+J0053,Quant Analyst,2024,126204.0,financial modeling
+J0053,Quant Analyst,2024,126204.0,python
+J0053,Quant Analyst,2024,126204.0,machine learning
+J0053,Quant Analyst,2024,126204.0,statistics
+J0054,Quant Analyst,2024,136099.0,machine learning
+J0054,Quant Analyst,2024,136099.0,sql
+J0054,Quant Analyst,2024,136099.0,risk modeling
+J0054,Quant Analyst,2024,136099.0,financial modeling
+J0054,Quant Analyst,2024,136099.0,python
+J0054,Quant Analyst,2024,136099.0,statistics
+J0055,Business Analyst,2024,77740.0,statistics
+J0055,Business Analyst,2024,77740.0,stakeholder management
+J0055,Business Analyst,2024,77740.0,power bi
+J0055,Business Analyst,2024,77740.0,excel
+J0055,Business Analyst,2024,77740.0,process analysis
+J0055,Business Analyst,2024,77740.0,sql
+J0056,Business Analyst,2024,71245.0,excel
+J0056,Business Analyst,2024,71245.0,sql
+J0056,Business Analyst,2024,71245.0,stakeholder management
+J0056,Business Analyst,2024,71245.0,statistics
+J0056,Business Analyst,2024,71245.0,power bi
+J0056,Business Analyst,2024,71245.0,process analysis
+J0057,Business Analyst,2024,75213.0,process analysis
+J0057,Business Analyst,2024,75213.0,statistics
+J0057,Business Analyst,2024,75213.0,sql
+J0057,Business Analyst,2024,75213.0,excel
+J0057,Business Analyst,2024,75213.0,stakeholder management
+J0057,Business Analyst,2024,75213.0,power bi
+J0058,Basic Accountant,2024,61106.0,erp
+J0058,Basic Accountant,2024,61106.0,bookkeeping
+J0058,Basic Accountant,2024,61106.0,reconciliation
+J0058,Basic Accountant,2024,61106.0,tax
+J0058,Basic Accountant,2024,61106.0,reporting
+J0058,Basic Accountant,2024,61106.0,excel
+J0059,Basic Accountant,2024,59959.0,tax
+J0059,Basic Accountant,2024,59959.0,bookkeeping
+J0059,Basic Accountant,2024,59959.0,reconciliation
+J0059,Basic Accountant,2024,59959.0,excel
+J0059,Basic Accountant,2024,59959.0,reporting
+J0059,Basic Accountant,2024,59959.0,erp
+J0060,Basic Accountant,2024,55164.0,reconciliation
+J0060,Basic Accountant,2024,55164.0,tax
+J0060,Basic Accountant,2024,55164.0,erp
+J0060,Basic Accountant,2024,55164.0,bookkeeping
+J0060,Basic Accountant,2024,55164.0,excel
+J0060,Basic Accountant,2024,55164.0,reporting
+J0061,Data Entry Clerk,2024,38594.0,documentation
+J0061,Data Entry Clerk,2024,38594.0,crm
+J0061,Data Entry Clerk,2024,38594.0,excel
+J0061,Data Entry Clerk,2024,38594.0,data entry
+J0061,Data Entry Clerk,2024,38594.0,typing
+J0061,Data Entry Clerk,2024,38594.0,quality check
+J0062,Data Entry Clerk,2024,44447.0,excel
+J0062,Data Entry Clerk,2024,44447.0,quality check
+J0062,Data Entry Clerk,2024,44447.0,documentation
+J0062,Data Entry Clerk,2024,44447.0,crm
+J0062,Data Entry Clerk,2024,44447.0,data entry
+J0062,Data Entry Clerk,2024,44447.0,typing
+J0063,Data Entry Clerk,2024,44946.0,excel
+J0063,Data Entry Clerk,2024,44946.0,typing
+J0063,Data Entry Clerk,2024,44946.0,documentation
+J0063,Data Entry Clerk,2024,44946.0,quality check
+J0063,Data Entry Clerk,2024,44946.0,data entry
+J0063,Data Entry Clerk,2024,44946.0,crm
+J0064,Manual Tester,2024,70788.0,api testing
+J0064,Manual Tester,2024,70788.0,manual testing
+J0064,Manual Tester,2024,70788.0,jira
+J0064,Manual Tester,2024,70788.0,documentation
+J0064,Manual Tester,2024,70788.0,excel
+J0064,Manual Tester,2024,70788.0,test cases
+J0065,Manual Tester,2024,66185.0,documentation
+J0065,Manual Tester,2024,66185.0,excel
+J0065,Manual Tester,2024,66185.0,manual testing
+J0065,Manual Tester,2024,66185.0,jira
+J0065,Manual Tester,2024,66185.0,test cases
+J0065,Manual Tester,2024,66185.0,api testing
+J0066,Manual Tester,2024,67766.0,test cases
+J0066,Manual Tester,2024,67766.0,jira
+J0066,Manual Tester,2024,67766.0,documentation
+J0066,Manual Tester,2024,67766.0,excel
+J0066,Manual Tester,2024,67766.0,manual testing
+J0066,Manual Tester,2024,67766.0,api testing
+J0067,Financial Analyst,2024,95060.0,python
+J0067,Financial Analyst,2024,95060.0,sql
+J0067,Financial Analyst,2024,95060.0,power bi
+J0067,Financial Analyst,2024,95060.0,financial modeling
+J0067,Financial Analyst,2024,95060.0,excel
+J0067,Financial Analyst,2024,95060.0,forecasting
+J0068,Financial Analyst,2024,90190.0,python
+J0068,Financial Analyst,2024,90190.0,excel
+J0068,Financial Analyst,2024,90190.0,forecasting
+J0068,Financial Analyst,2024,90190.0,power bi
+J0068,Financial Analyst,2024,90190.0,financial modeling
+J0068,Financial Analyst,2024,90190.0,sql
+J0069,Financial Analyst,2024,91562.0,excel
+J0069,Financial Analyst,2024,91562.0,python
+J0069,Financial Analyst,2024,91562.0,forecasting
+J0069,Financial Analyst,2024,91562.0,power bi
+J0069,Financial Analyst,2024,91562.0,sql
+J0069,Financial Analyst,2024,91562.0,financial modeling
+J0070,Cybersecurity Analyst,2024,106215.0,python
+J0070,Cybersecurity Analyst,2024,106215.0,risk assessment
+J0070,Cybersecurity Analyst,2024,106215.0,network security
+J0070,Cybersecurity Analyst,2024,106215.0,sql
+J0070,Cybersecurity Analyst,2024,106215.0,cloud
+J0070,Cybersecurity Analyst,2024,106215.0,siem
+J0071,Cybersecurity Analyst,2024,107162.0,cloud
+J0071,Cybersecurity Analyst,2024,107162.0,sql
+J0071,Cybersecurity Analyst,2024,107162.0,network security
+J0071,Cybersecurity Analyst,2024,107162.0,python
+J0071,Cybersecurity Analyst,2024,107162.0,siem
+J0071,Cybersecurity Analyst,2024,107162.0,risk assessment
+J0072,Cybersecurity Analyst,2024,116869.0,cloud
+J0072,Cybersecurity Analyst,2024,116869.0,network security
+J0072,Cybersecurity Analyst,2024,116869.0,siem
+J0072,Cybersecurity Analyst,2024,116869.0,risk assessment
+J0072,Cybersecurity Analyst,2024,116869.0,sql
+J0072,Cybersecurity Analyst,2024,116869.0,python
+J0073,Data Analyst,2025,82764.0,excel
+J0073,Data Analyst,2025,82764.0,sql
+J0073,Data Analyst,2025,82764.0,python
+J0073,Data Analyst,2025,82764.0,business analysis
+J0073,Data Analyst,2025,82764.0,tableau
+J0073,Data Analyst,2025,82764.0,statistics
+J0074,Data Analyst,2025,87225.0,python
+J0074,Data Analyst,2025,87225.0,sql
+J0074,Data Analyst,2025,87225.0,statistics
+J0074,Data Analyst,2025,87225.0,business analysis
+J0074,Data Analyst,2025,87225.0,excel
+J0074,Data Analyst,2025,87225.0,tableau
+J0075,Data Analyst,2025,92970.0,excel
+J0075,Data Analyst,2025,92970.0,statistics
+J0075,Data Analyst,2025,92970.0,sql
+J0075,Data Analyst,2025,92970.0,business analysis
+J0075,Data Analyst,2025,92970.0,tableau
+J0075,Data Analyst,2025,92970.0,python
+J0076,Risk Analyst,2025,95691.0,credit risk
+J0076,Risk Analyst,2025,95691.0,excel
+J0076,Risk Analyst,2025,95691.0,sql
+J0076,Risk Analyst,2025,95691.0,statistics
+J0076,Risk Analyst,2025,95691.0,model validation
+J0076,Risk Analyst,2025,95691.0,python
+J0077,Risk Analyst,2025,90783.0,sql
+J0077,Risk Analyst,2025,90783.0,excel
+J0077,Risk Analyst,2025,90783.0,model validation
+J0077,Risk Analyst,2025,90783.0,credit risk
+J0077,Risk Analyst,2025,90783.0,python
+J0077,Risk Analyst,2025,90783.0,statistics
+J0078,Risk Analyst,2025,91988.0,python
+J0078,Risk Analyst,2025,91988.0,model validation
+J0078,Risk Analyst,2025,91988.0,excel
+J0078,Risk Analyst,2025,91988.0,credit risk
+J0078,Risk Analyst,2025,91988.0,statistics
+J0078,Risk Analyst,2025,91988.0,sql
+J0079,Software Engineer,2025,136929.0,cloud
+J0079,Software Engineer,2025,136929.0,sql
+J0079,Software Engineer,2025,136929.0,system design
+J0079,Software Engineer,2025,136929.0,java
+J0079,Software Engineer,2025,136929.0,git
+J0079,Software Engineer,2025,136929.0,python
+J0080,Software Engineer,2025,136283.0,system design
+J0080,Software Engineer,2025,136283.0,cloud
+J0080,Software Engineer,2025,136283.0,python
+J0080,Software Engineer,2025,136283.0,java
+J0080,Software Engineer,2025,136283.0,sql
+J0080,Software Engineer,2025,136283.0,git
+J0081,Software Engineer,2025,127664.0,cloud
+J0081,Software Engineer,2025,127664.0,system design
+J0081,Software Engineer,2025,127664.0,git
+J0081,Software Engineer,2025,127664.0,sql
+J0081,Software Engineer,2025,127664.0,python
+J0081,Software Engineer,2025,127664.0,java
+J0082,Machine Learning Engineer,2025,173352.0,machine learning
+J0082,Machine Learning Engineer,2025,173352.0,sql
+J0082,Machine Learning Engineer,2025,173352.0,pytorch
+J0082,Machine Learning Engineer,2025,173352.0,mlops
+J0082,Machine Learning Engineer,2025,173352.0,python
+J0082,Machine Learning Engineer,2025,173352.0,cloud
+J0083,Machine Learning Engineer,2025,175139.0,python
+J0083,Machine Learning Engineer,2025,175139.0,mlops
+J0083,Machine Learning Engineer,2025,175139.0,machine learning
+J0083,Machine Learning Engineer,2025,175139.0,cloud
+J0083,Machine Learning Engineer,2025,175139.0,pytorch
+J0083,Machine Learning Engineer,2025,175139.0,sql
+J0084,Machine Learning Engineer,2025,151895.0,mlops
+J0084,Machine Learning Engineer,2025,151895.0,python
+J0084,Machine Learning Engineer,2025,151895.0,cloud
+J0084,Machine Learning Engineer,2025,151895.0,machine learning
+J0084,Machine Learning Engineer,2025,151895.0,pytorch
+J0084,Machine Learning Engineer,2025,151895.0,sql
+J0085,Data Engineer,2025,151219.0,sql
+J0085,Data Engineer,2025,151219.0,spark
+J0085,Data Engineer,2025,151219.0,airflow
+J0085,Data Engineer,2025,151219.0,data modeling
+J0085,Data Engineer,2025,151219.0,cloud
+J0085,Data Engineer,2025,151219.0,python
+J0086,Data Engineer,2025,155052.0,sql
+J0086,Data Engineer,2025,155052.0,data modeling
+J0086,Data Engineer,2025,155052.0,cloud
+J0086,Data Engineer,2025,155052.0,spark
+J0086,Data Engineer,2025,155052.0,airflow
+J0086,Data Engineer,2025,155052.0,python
+J0087,Data Engineer,2025,149643.0,spark
+J0087,Data Engineer,2025,149643.0,cloud
+J0087,Data Engineer,2025,149643.0,sql
+J0087,Data Engineer,2025,149643.0,airflow
+J0087,Data Engineer,2025,149643.0,python
+J0087,Data Engineer,2025,149643.0,data modeling
+J0088,Quant Analyst,2025,143153.0,sql
+J0088,Quant Analyst,2025,143153.0,python
+J0088,Quant Analyst,2025,143153.0,risk modeling
+J0088,Quant Analyst,2025,143153.0,machine learning
+J0088,Quant Analyst,2025,143153.0,financial modeling
+J0088,Quant Analyst,2025,143153.0,statistics
+J0089,Quant Analyst,2025,161459.0,sql
+J0089,Quant Analyst,2025,161459.0,machine learning
+J0089,Quant Analyst,2025,161459.0,statistics
+J0089,Quant Analyst,2025,161459.0,risk modeling
+J0089,Quant Analyst,2025,161459.0,financial modeling
+J0089,Quant Analyst,2025,161459.0,python
+J0090,Quant Analyst,2025,149231.0,statistics
+J0090,Quant Analyst,2025,149231.0,python
+J0090,Quant Analyst,2025,149231.0,machine learning
+J0090,Quant Analyst,2025,149231.0,financial modeling
+J0090,Quant Analyst,2025,149231.0,risk modeling
+J0090,Quant Analyst,2025,149231.0,sql
+J0091,Business Analyst,2025,72172.0,statistics
+J0091,Business Analyst,2025,72172.0,power bi
+J0091,Business Analyst,2025,72172.0,stakeholder management
+J0091,Business Analyst,2025,72172.0,process analysis
+J0091,Business Analyst,2025,72172.0,excel
+J0091,Business Analyst,2025,72172.0,sql
+J0092,Business Analyst,2025,73128.0,excel
+J0092,Business Analyst,2025,73128.0,statistics
+J0092,Business Analyst,2025,73128.0,sql
+J0092,Business Analyst,2025,73128.0,process analysis
+J0092,Business Analyst,2025,73128.0,power bi
+J0092,Business Analyst,2025,73128.0,stakeholder management
+J0093,Business Analyst,2025,82922.0,excel
+J0093,Business Analyst,2025,82922.0,process analysis
+J0093,Business Analyst,2025,82922.0,statistics
+J0093,Business Analyst,2025,82922.0,stakeholder management
+J0093,Business Analyst,2025,82922.0,sql
+J0093,Business Analyst,2025,82922.0,power bi
+J0094,Basic Accountant,2025,55573.0,excel
+J0094,Basic Accountant,2025,55573.0,reporting
+J0094,Basic Accountant,2025,55573.0,erp
+J0094,Basic Accountant,2025,55573.0,tax
+J0094,Basic Accountant,2025,55573.0,reconciliation
+J0094,Basic Accountant,2025,55573.0,bookkeeping
+J0095,Basic Accountant,2025,62148.0,reporting
+J0095,Basic Accountant,2025,62148.0,tax
+J0095,Basic Accountant,2025,62148.0,erp
+J0095,Basic Accountant,2025,62148.0,bookkeeping
+J0095,Basic Accountant,2025,62148.0,reconciliation
+J0095,Basic Accountant,2025,62148.0,excel
+J0096,Basic Accountant,2025,56990.0,erp
+J0096,Basic Accountant,2025,56990.0,bookkeeping
+J0096,Basic Accountant,2025,56990.0,reporting
+J0096,Basic Accountant,2025,56990.0,tax
+J0096,Basic Accountant,2025,56990.0,excel
+J0096,Basic Accountant,2025,56990.0,reconciliation
+J0097,Data Entry Clerk,2025,39670.0,data entry
+J0097,Data Entry Clerk,2025,39670.0,documentation
+J0097,Data Entry Clerk,2025,39670.0,typing
+J0097,Data Entry Clerk,2025,39670.0,crm
+J0097,Data Entry Clerk,2025,39670.0,quality check
+J0097,Data Entry Clerk,2025,39670.0,excel
+J0098,Data Entry Clerk,2025,44767.0,data entry
+J0098,Data Entry Clerk,2025,44767.0,typing
+J0098,Data Entry Clerk,2025,44767.0,crm
+J0098,Data Entry Clerk,2025,44767.0,quality check
+J0098,Data Entry Clerk,2025,44767.0,excel
+J0098,Data Entry Clerk,2025,44767.0,documentation
+J0099,Data Entry Clerk,2025,38297.0,excel
+J0099,Data Entry Clerk,2025,38297.0,documentation
+J0099,Data Entry Clerk,2025,38297.0,quality check
+J0099,Data Entry Clerk,2025,38297.0,typing
+J0099,Data Entry Clerk,2025,38297.0,data entry
+J0099,Data Entry Clerk,2025,38297.0,crm
+J0100,Manual Tester,2025,70525.0,jira
+J0100,Manual Tester,2025,70525.0,test cases
+J0100,Manual Tester,2025,70525.0,api testing
+J0100,Manual Tester,2025,70525.0,documentation
+J0100,Manual Tester,2025,70525.0,manual testing
+J0100,Manual Tester,2025,70525.0,excel
+J0101,Manual Tester,2025,67451.0,jira
+J0101,Manual Tester,2025,67451.0,documentation
+J0101,Manual Tester,2025,67451.0,api testing
+J0101,Manual Tester,2025,67451.0,test cases
+J0101,Manual Tester,2025,67451.0,manual testing
+J0101,Manual Tester,2025,67451.0,excel
+J0102,Manual Tester,2025,67385.0,documentation
+J0102,Manual Tester,2025,67385.0,api testing
+J0102,Manual Tester,2025,67385.0,test cases
+J0102,Manual Tester,2025,67385.0,manual testing
+J0102,Manual Tester,2025,67385.0,excel
+J0102,Manual Tester,2025,67385.0,jira
+J0103,Financial Analyst,2025,97712.0,python
+J0103,Financial Analyst,2025,97712.0,sql
+J0103,Financial Analyst,2025,97712.0,power bi
+J0103,Financial Analyst,2025,97712.0,excel
+J0103,Financial Analyst,2025,97712.0,forecasting
+J0103,Financial Analyst,2025,97712.0,financial modeling
+J0104,Financial Analyst,2025,102749.0,financial modeling
+J0104,Financial Analyst,2025,102749.0,power bi
+J0104,Financial Analyst,2025,102749.0,python
+J0104,Financial Analyst,2025,102749.0,excel
+J0104,Financial Analyst,2025,102749.0,forecasting
+J0104,Financial Analyst,2025,102749.0,sql
+J0105,Financial Analyst,2025,103366.0,power bi
+J0105,Financial Analyst,2025,103366.0,excel
+J0105,Financial Analyst,2025,103366.0,financial modeling
+J0105,Financial Analyst,2025,103366.0,forecasting
+J0105,Financial Analyst,2025,103366.0,sql
+J0105,Financial Analyst,2025,103366.0,python
+J0106,Cybersecurity Analyst,2025,123619.0,sql
+J0106,Cybersecurity Analyst,2025,123619.0,siem
+J0106,Cybersecurity Analyst,2025,123619.0,network security
+J0106,Cybersecurity Analyst,2025,123619.0,cloud
+J0106,Cybersecurity Analyst,2025,123619.0,risk assessment
+J0106,Cybersecurity Analyst,2025,123619.0,python
+J0107,Cybersecurity Analyst,2025,121746.0,sql
+J0107,Cybersecurity Analyst,2025,121746.0,network security
+J0107,Cybersecurity Analyst,2025,121746.0,python
+J0107,Cybersecurity Analyst,2025,121746.0,cloud
+J0107,Cybersecurity Analyst,2025,121746.0,risk assessment
+J0107,Cybersecurity Analyst,2025,121746.0,siem
+J0108,Cybersecurity Analyst,2025,119008.0,sql
+J0108,Cybersecurity Analyst,2025,119008.0,cloud
+J0108,Cybersecurity Analyst,2025,119008.0,python
+J0108,Cybersecurity Analyst,2025,119008.0,network security
+J0108,Cybersecurity Analyst,2025,119008.0,siem
+J0108,Cybersecurity Analyst,2025,119008.0,risk assessment
+J0109,Data Analyst,2026,97933.0,business analysis
+J0109,Data Analyst,2026,97933.0,tableau
+J0109,Data Analyst,2026,97933.0,sql
+J0109,Data Analyst,2026,97933.0,python
+J0109,Data Analyst,2026,97933.0,excel
+J0109,Data Analyst,2026,97933.0,statistics
+J0110,Data Analyst,2026,97151.0,python
+J0110,Data Analyst,2026,97151.0,tableau
+J0110,Data Analyst,2026,97151.0,excel
+J0110,Data Analyst,2026,97151.0,sql
+J0110,Data Analyst,2026,97151.0,statistics
+J0110,Data Analyst,2026,97151.0,business analysis
+J0111,Data Analyst,2026,91800.0,sql
+J0111,Data Analyst,2026,91800.0,excel
+J0111,Data Analyst,2026,91800.0,business analysis
+J0111,Data Analyst,2026,91800.0,python
+J0111,Data Analyst,2026,91800.0,statistics
+J0111,Data Analyst,2026,91800.0,tableau
+J0112,Risk Analyst,2026,117967.0,python
+J0112,Risk Analyst,2026,117967.0,model validation
+J0112,Risk Analyst,2026,117967.0,credit risk
+J0112,Risk Analyst,2026,117967.0,statistics
+J0112,Risk Analyst,2026,117967.0,sql
+J0112,Risk Analyst,2026,117967.0,excel
+J0113,Risk Analyst,2026,107520.0,excel
+J0113,Risk Analyst,2026,107520.0,sql
+J0113,Risk Analyst,2026,107520.0,credit risk
+J0113,Risk Analyst,2026,107520.0,statistics
+J0113,Risk Analyst,2026,107520.0,python
+J0113,Risk Analyst,2026,107520.0,model validation
+J0114,Risk Analyst,2026,106583.0,credit risk
+J0114,Risk Analyst,2026,106583.0,model validation
+J0114,Risk Analyst,2026,106583.0,sql
+J0114,Risk Analyst,2026,106583.0,statistics
+J0114,Risk Analyst,2026,106583.0,excel
+J0114,Risk Analyst,2026,106583.0,python
+J0115,Software Engineer,2026,155063.0,java
+J0115,Software Engineer,2026,155063.0,system design
+J0115,Software Engineer,2026,155063.0,sql
+J0115,Software Engineer,2026,155063.0,cloud
+J0115,Software Engineer,2026,155063.0,python
+J0115,Software Engineer,2026,155063.0,git
+J0116,Software Engineer,2026,151196.0,sql
+J0116,Software Engineer,2026,151196.0,java
+J0116,Software Engineer,2026,151196.0,cloud
+J0116,Software Engineer,2026,151196.0,system design
+J0116,Software Engineer,2026,151196.0,python
+J0116,Software Engineer,2026,151196.0,git
+J0117,Software Engineer,2026,130983.0,sql
+J0117,Software Engineer,2026,130983.0,git
+J0117,Software Engineer,2026,130983.0,python
+J0117,Software Engineer,2026,130983.0,cloud
+J0117,Software Engineer,2026,130983.0,system design
+J0117,Software Engineer,2026,130983.0,java
+J0118,Machine Learning Engineer,2026,189681.0,cloud
+J0118,Machine Learning Engineer,2026,189681.0,machine learning
+J0118,Machine Learning Engineer,2026,189681.0,python
+J0118,Machine Learning Engineer,2026,189681.0,mlops
+J0118,Machine Learning Engineer,2026,189681.0,pytorch
+J0118,Machine Learning Engineer,2026,189681.0,sql
+J0119,Machine Learning Engineer,2026,183096.0,mlops
+J0119,Machine Learning Engineer,2026,183096.0,cloud
+J0119,Machine Learning Engineer,2026,183096.0,pytorch
+J0119,Machine Learning Engineer,2026,183096.0,sql
+J0119,Machine Learning Engineer,2026,183096.0,python
+J0119,Machine Learning Engineer,2026,183096.0,machine learning
+J0120,Machine Learning Engineer,2026,202882.0,mlops
+J0120,Machine Learning Engineer,2026,202882.0,python
+J0120,Machine Learning Engineer,2026,202882.0,sql
+J0120,Machine Learning Engineer,2026,202882.0,pytorch
+J0120,Machine Learning Engineer,2026,202882.0,machine learning
+J0120,Machine Learning Engineer,2026,202882.0,cloud
+J0121,Data Engineer,2026,153517.0,python
+J0121,Data Engineer,2026,153517.0,data modeling
+J0121,Data Engineer,2026,153517.0,cloud
+J0121,Data Engineer,2026,153517.0,spark
+J0121,Data Engineer,2026,153517.0,sql
+J0121,Data Engineer,2026,153517.0,airflow
+J0122,Data Engineer,2026,156871.0,data modeling
+J0122,Data Engineer,2026,156871.0,sql
+J0122,Data Engineer,2026,156871.0,airflow
+J0122,Data Engineer,2026,156871.0,cloud
+J0122,Data Engineer,2026,156871.0,spark
+J0122,Data Engineer,2026,156871.0,python
+J0123,Data Engineer,2026,184662.0,cloud
+J0123,Data Engineer,2026,184662.0,airflow
+J0123,Data Engineer,2026,184662.0,spark
+J0123,Data Engineer,2026,184662.0,sql
+J0123,Data Engineer,2026,184662.0,python
+J0123,Data Engineer,2026,184662.0,data modeling
+J0124,Quant Analyst,2026,163770.0,statistics
+J0124,Quant Analyst,2026,163770.0,machine learning
+J0124,Quant Analyst,2026,163770.0,sql
+J0124,Quant Analyst,2026,163770.0,risk modeling
+J0124,Quant Analyst,2026,163770.0,financial modeling
+J0124,Quant Analyst,2026,163770.0,python
+J0125,Quant Analyst,2026,171193.0,financial modeling
+J0125,Quant Analyst,2026,171193.0,sql
+J0125,Quant Analyst,2026,171193.0,machine learning
+J0125,Quant Analyst,2026,171193.0,python
+J0125,Quant Analyst,2026,171193.0,risk modeling
+J0125,Quant Analyst,2026,171193.0,statistics
+J0126,Quant Analyst,2026,173760.0,financial modeling
+J0126,Quant Analyst,2026,173760.0,sql
+J0126,Quant Analyst,2026,173760.0,risk modeling
+J0126,Quant Analyst,2026,173760.0,machine learning
+J0126,Quant Analyst,2026,173760.0,python
+J0126,Quant Analyst,2026,173760.0,statistics
+J0127,Business Analyst,2026,79871.0,excel
+J0127,Business Analyst,2026,79871.0,statistics
+J0127,Business Analyst,2026,79871.0,stakeholder management
+J0127,Business Analyst,2026,79871.0,power bi
+J0127,Business Analyst,2026,79871.0,process analysis
+J0127,Business Analyst,2026,79871.0,sql
+J0128,Business Analyst,2026,78816.0,excel
+J0128,Business Analyst,2026,78816.0,power bi
+J0128,Business Analyst,2026,78816.0,sql
+J0128,Business Analyst,2026,78816.0,statistics
+J0128,Business Analyst,2026,78816.0,process analysis
+J0128,Business Analyst,2026,78816.0,stakeholder management
+J0129,Business Analyst,2026,85785.0,excel
+J0129,Business Analyst,2026,85785.0,power bi
+J0129,Business Analyst,2026,85785.0,stakeholder management
+J0129,Business Analyst,2026,85785.0,sql
+J0129,Business Analyst,2026,85785.0,process analysis
+J0129,Business Analyst,2026,85785.0,statistics
+J0130,Basic Accountant,2026,59691.0,reporting
+J0130,Basic Accountant,2026,59691.0,excel
+J0130,Basic Accountant,2026,59691.0,tax
+J0130,Basic Accountant,2026,59691.0,reconciliation
+J0130,Basic Accountant,2026,59691.0,bookkeeping
+J0130,Basic Accountant,2026,59691.0,erp
+J0131,Basic Accountant,2026,62768.0,reconciliation
+J0131,Basic Accountant,2026,62768.0,tax
+J0131,Basic Accountant,2026,62768.0,bookkeeping
+J0131,Basic Accountant,2026,62768.0,excel
+J0131,Basic Accountant,2026,62768.0,erp
+J0131,Basic Accountant,2026,62768.0,reporting
+J0132,Basic Accountant,2026,63681.0,tax
+J0132,Basic Accountant,2026,63681.0,reporting
+J0132,Basic Accountant,2026,63681.0,bookkeeping
+J0132,Basic Accountant,2026,63681.0,excel
+J0132,Basic Accountant,2026,63681.0,erp
+J0132,Basic Accountant,2026,63681.0,reconciliation
+J0133,Data Entry Clerk,2026,42973.0,excel
+J0133,Data Entry Clerk,2026,42973.0,quality check
+J0133,Data Entry Clerk,2026,42973.0,data entry
+J0133,Data Entry Clerk,2026,42973.0,crm
+J0133,Data Entry Clerk,2026,42973.0,typing
+J0133,Data Entry Clerk,2026,42973.0,documentation
+J0134,Data Entry Clerk,2026,37175.0,quality check
+J0134,Data Entry Clerk,2026,37175.0,typing
+J0134,Data Entry Clerk,2026,37175.0,excel
+J0134,Data Entry Clerk,2026,37175.0,documentation
+J0134,Data Entry Clerk,2026,37175.0,crm
+J0134,Data Entry Clerk,2026,37175.0,data entry
+J0135,Data Entry Clerk,2026,41356.0,typing
+J0135,Data Entry Clerk,2026,41356.0,data entry
+J0135,Data Entry Clerk,2026,41356.0,excel
+J0135,Data Entry Clerk,2026,41356.0,quality check
+J0135,Data Entry Clerk,2026,41356.0,crm
+J0135,Data Entry Clerk,2026,41356.0,documentation
+J0136,Manual Tester,2026,72753.0,documentation
+J0136,Manual Tester,2026,72753.0,jira
+J0136,Manual Tester,2026,72753.0,test cases
+J0136,Manual Tester,2026,72753.0,excel
+J0136,Manual Tester,2026,72753.0,api testing
+J0136,Manual Tester,2026,72753.0,manual testing
+J0137,Manual Tester,2026,63593.0,api testing
+J0137,Manual Tester,2026,63593.0,test cases
+J0137,Manual Tester,2026,63593.0,manual testing
+J0137,Manual Tester,2026,63593.0,excel
+J0137,Manual Tester,2026,63593.0,documentation
+J0137,Manual Tester,2026,63593.0,jira
+J0138,Manual Tester,2026,67865.0,jira
+J0138,Manual Tester,2026,67865.0,excel
+J0138,Manual Tester,2026,67865.0,api testing
+J0138,Manual Tester,2026,67865.0,test cases
+J0138,Manual Tester,2026,67865.0,documentation
+J0138,Manual Tester,2026,67865.0,manual testing
+J0139,Financial Analyst,2026,97238.0,sql
+J0139,Financial Analyst,2026,97238.0,excel
+J0139,Financial Analyst,2026,97238.0,forecasting
+J0139,Financial Analyst,2026,97238.0,power bi
+J0139,Financial Analyst,2026,97238.0,financial modeling
+J0139,Financial Analyst,2026,97238.0,python
+J0140,Financial Analyst,2026,99970.0,sql
+J0140,Financial Analyst,2026,99970.0,financial modeling
+J0140,Financial Analyst,2026,99970.0,python
+J0140,Financial Analyst,2026,99970.0,excel
+J0140,Financial Analyst,2026,99970.0,power bi
+J0140,Financial Analyst,2026,99970.0,forecasting
+J0141,Financial Analyst,2026,103456.0,excel
+J0141,Financial Analyst,2026,103456.0,power bi
+J0141,Financial Analyst,2026,103456.0,financial modeling
+J0141,Financial Analyst,2026,103456.0,python
+J0141,Financial Analyst,2026,103456.0,sql
+J0141,Financial Analyst,2026,103456.0,forecasting
+J0142,Cybersecurity Analyst,2026,136294.0,siem
+J0142,Cybersecurity Analyst,2026,136294.0,network security
+J0142,Cybersecurity Analyst,2026,136294.0,python
+J0142,Cybersecurity Analyst,2026,136294.0,cloud
+J0142,Cybersecurity Analyst,2026,136294.0,risk assessment
+J0142,Cybersecurity Analyst,2026,136294.0,sql
+J0143,Cybersecurity Analyst,2026,148760.0,sql
+J0143,Cybersecurity Analyst,2026,148760.0,siem
+J0143,Cybersecurity Analyst,2026,148760.0,cloud
+J0143,Cybersecurity Analyst,2026,148760.0,python
+J0143,Cybersecurity Analyst,2026,148760.0,network security
+J0143,Cybersecurity Analyst,2026,148760.0,risk assessment
+J0144,Cybersecurity Analyst,2026,138673.0,risk assessment
+J0144,Cybersecurity Analyst,2026,138673.0,sql
+J0144,Cybersecurity Analyst,2026,138673.0,network security
+J0144,Cybersecurity Analyst,2026,138673.0,cloud
+J0144,Cybersecurity Analyst,2026,138673.0,python
+J0144,Cybersecurity Analyst,2026,138673.0,siem

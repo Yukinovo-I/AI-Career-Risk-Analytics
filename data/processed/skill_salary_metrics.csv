@@ -1,0 +1,165 @@
+skill,posting_year,avg_salary_usd,posting_count
+airflow,2023,111658.33,3
+airflow,2024,122571.67,3
+airflow,2025,151971.33,3
+airflow,2026,165016.67,3
+api testing,2023,66716.67,3
+api testing,2024,68246.33,3
+api testing,2025,68453.67,3
+api testing,2026,68070.33,3
+bookkeeping,2023,56614.33,3
+bookkeeping,2024,58743.0,3
+bookkeeping,2025,58237.0,3
+bookkeeping,2026,62046.67,3
+business analysis,2023,74008.0,3
+business analysis,2024,77694.0,3
+business analysis,2025,87653.0,3
+business analysis,2026,95628.0,3
+cloud,2023,109259.0,12
+cloud,2024,121224.67,12
+cloud,2025,143462.42,12
+cloud,2026,160973.17,12
+credit risk,2023,82162.0,3
+credit risk,2024,89776.0,3
+credit risk,2025,92820.67,3
+credit risk,2026,110690.0,3
+crm,2023,43022.0,3
+crm,2024,42662.33,3
+crm,2025,40911.33,3
+crm,2026,40501.33,3
+data entry,2023,43022.0,3
+data entry,2024,42662.33,3
+data entry,2025,40911.33,3
+data entry,2026,40501.33,3
+data modeling,2023,111658.33,3
+data modeling,2024,122571.67,3
+data modeling,2025,151971.33,3
+data modeling,2026,165016.67,3
+documentation,2023,54869.33,6
+documentation,2024,55454.33,6
+documentation,2025,54682.5,6
+documentation,2026,54285.83,6
+erp,2023,56614.33,3
+erp,2024,58743.0,3
+erp,2025,58237.0,3
+erp,2026,62046.67,3
+excel,2023,68053.48,21
+excel,2024,72017.86,21
+excel,2025,75060.76,21
+excel,2026,79806.9,21
+financial modeling,2023,99894.83,6
+financial modeling,2024,110507.83,6
+financial modeling,2025,126278.33,6
+financial modeling,2026,134897.83,6
+forecasting,2023,87379.67,3
+forecasting,2024,92270.67,3
+forecasting,2025,101275.67,3
+forecasting,2026,100221.33,3
+git,2023,106986.0,3
+git,2024,110853.0,3
+git,2025,133625.33,3
+git,2026,145747.33,3
+java,2023,106986.0,3
+java,2024,110853.0,3
+java,2025,133625.33,3
+java,2026,145747.33,3
+jira,2023,66716.67,3
+jira,2024,68246.33,3
+jira,2025,68453.67,3
+jira,2026,68070.33,3
+machine learning,2023,117126.0,6
+machine learning,2024,135068.5,6
+machine learning,2025,159038.17,6
+machine learning,2026,180730.33,6
+manual testing,2023,66716.67,3
+manual testing,2024,68246.33,3
+manual testing,2025,68453.67,3
+manual testing,2026,68070.33,3
+mlops,2023,121842.0,3
+mlops,2024,141392.0,3
+mlops,2025,166795.33,3
+mlops,2026,191886.33,3
+model validation,2023,82162.0,3
+model validation,2024,89776.0,3
+model validation,2025,92820.67,3
+model validation,2026,110690.0,3
+network security,2023,96549.67,3
+network security,2024,110082.0,3
+network security,2025,121457.67,3
+network security,2026,141242.33,3
+power bi,2023,76925.67,6
+power bi,2024,83501.67,6
+power bi,2025,88674.83,6
+power bi,2026,90856.0,6
+process analysis,2023,66471.67,3
+process analysis,2024,74732.67,3
+process analysis,2025,76074.0,3
+process analysis,2026,81490.67,3
+python,2023,99124.46,24
+python,2024,109173.04,24
+python,2025,125860.0,24
+python,2026,140000.79,24
+pytorch,2023,121842.0,3
+pytorch,2024,141392.0,3
+pytorch,2025,166795.33,3
+pytorch,2026,191886.33,3
+quality check,2023,43022.0,3
+quality check,2024,42662.33,3
+quality check,2025,40911.33,3
+quality check,2026,40501.33,3
+reconciliation,2023,56614.33,3
+reconciliation,2024,58743.0,3
+reconciliation,2025,58237.0,3
+reconciliation,2026,62046.67,3
+reporting,2023,56614.33,3
+reporting,2024,58743.0,3
+reporting,2025,58237.0,3
+reporting,2026,62046.67,3
+risk assessment,2023,96549.67,3
+risk assessment,2024,110082.0,3
+risk assessment,2025,121457.67,3
+risk assessment,2026,141242.33,3
+risk modeling,2023,112410.0,3
+risk modeling,2024,128745.0,3
+risk modeling,2025,151281.0,3
+risk modeling,2026,169574.33,3
+siem,2023,96549.67,3
+siem,2024,110082.0,3
+siem,2025,121457.67,3
+siem,2026,141242.33,3
+spark,2023,111658.33,3
+spark,2024,122571.67,3
+spark,2025,151971.33,3
+spark,2026,165016.67,3
+sql,2023,95496.37,27
+sql,2024,105346.33,27
+sql,2025,120328.22,27
+sql,2026,133499.67,27
+stakeholder management,2023,66471.67,3
+stakeholder management,2024,74732.67,3
+stakeholder management,2025,76074.0,3
+stakeholder management,2026,81490.67,3
+statistics,2023,83762.92,12
+statistics,2024,92736.92,12
+statistics,2025,101957.17,12
+statistics,2026,114345.75,12
+system design,2023,106986.0,3
+system design,2024,110853.0,3
+system design,2025,133625.33,3
+system design,2026,145747.33,3
+tableau,2023,74008.0,3
+tableau,2024,77694.0,3
+tableau,2025,87653.0,3
+tableau,2026,95628.0,3
+tax,2023,56614.33,3
+tax,2024,58743.0,3
+tax,2025,58237.0,3
+tax,2026,62046.67,3
+test cases,2023,66716.67,3
+test cases,2024,68246.33,3
+test cases,2025,68453.67,3
+test cases,2026,68070.33,3
+typing,2023,43022.0,3
+typing,2024,42662.33,3
+typing,2025,40911.33,3
+typing,2026,40501.33,3

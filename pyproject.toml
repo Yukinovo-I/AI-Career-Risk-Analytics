@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-career-risk-analytics"
+version = "0.1.0"
+description = "AI时代大学生就业竞争力分析与职业风险预测系统"
+requires-python = ">=3.10"
+dependencies = [
+    "polars>=1.35.0",
+    "duckdb>=1.4.0",
+    "pandas>=2.2.0",
+    "matplotlib>=3.9.0",
+    "reportlab>=4.2.0",
+]
+
+[tool.setuptools]
+packages = ["polars_pipeline"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+

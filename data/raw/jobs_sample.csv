@@ -1,0 +1,145 @@
+job_id,job_title,company,location,country,salary,skills,experience,date_posted,source
+J0001,Data Analyst,Nova AI,Remote,Global,73913.0,statistics|business analysis|tableau|sql|python|excel,mid,2023-08-11,sample_kaggle_style
+J0002,Data Analyst,BluePeak Tech,Shenzhen,CN,80276.0,business analysis|sql|tableau|statistics|python|excel,mid,2023-02-09,sample_kaggle_style
+J0003,Data Analyst,Atlas Analytics,New York,US,67835.0,tableau|excel|python|statistics|sql|business analysis,senior,2023-08-20,sample_kaggle_style
+J0004,Risk Analyst,Atlas Analytics,London,UK,81402.0,credit risk|statistics|model validation|python|excel|sql,entry,2023-09-04,sample_kaggle_style
+J0005,Risk Analyst,Northwind Bank,Singapore,SG,82713.0,excel|model validation|python|credit risk|sql|statistics,mid,2023-05-07,sample_kaggle_style
+J0006,Risk Analyst,Helio Retail,New York,US,82371.0,statistics|model validation|credit risk|python|excel|sql,senior,2023-01-12,sample_kaggle_style
+J0007,Software Engineer,Nova AI,Singapore,SG,114706.0,python|java|git|cloud|system design|sql,entry,2023-10-03,sample_kaggle_style
+J0008,Software Engineer,Nova AI,Shanghai,CN,107079.0,system design|git|python|sql|cloud|java,senior,2023-05-15,sample_kaggle_style
+J0009,Software Engineer,BluePeak Tech,London,UK,99173.0,system design|git|cloud|python|java|sql,mid,2023-12-01,sample_kaggle_style
+J0010,Machine Learning Engineer,Helio Retail,Shenzhen,CN,113318.0,pytorch|mlops|python|cloud|sql|machine learning,mid,2023-08-11,sample_kaggle_style
+J0011,Machine Learning Engineer,Atlas Analytics,Remote,Global,124085.0,python|pytorch|sql|machine learning|cloud|mlops,mid,2023-01-21,sample_kaggle_style
+J0012,Machine Learning Engineer,Nova AI,Shanghai,CN,128123.0,python|pytorch|cloud|sql|machine learning|mlops,entry,2023-08-19,sample_kaggle_style
+J0013,Data Engineer,Northwind Bank,Shanghai,CN,113834.0,data modeling|cloud|airflow|spark|python|sql,senior,2023-03-23,sample_kaggle_style
+J0014,Data Engineer,Helio Retail,London,UK,114006.0,sql|airflow|python|cloud|data modeling|spark,entry,2023-02-03,sample_kaggle_style
+J0015,Data Engineer,Nova AI,Remote,Global,107135.0,sql|data modeling|python|spark|airflow|cloud,senior,2023-09-24,sample_kaggle_style
+J0016,Quant Analyst,Helio Retail,London,UK,120180.0,machine learning|sql|financial modeling|statistics|python|risk modeling,senior,2023-03-18,sample_kaggle_style
+J0017,Quant Analyst,Nova AI,Shenzhen,CN,107765.0,risk modeling|python|sql|statistics|machine learning|financial modeling,senior,2023-04-26,sample_kaggle_style
+J0018,Quant Analyst,Northwind Bank,Remote,Global,109285.0,risk modeling|machine learning|statistics|sql|financial modeling|python,mid,2023-06-08,sample_kaggle_style
+J0019,Business Analyst,Nova AI,Shanghai,CN,66475.0,sql|power bi|excel|stakeholder management|statistics|process analysis,entry,2023-03-04,sample_kaggle_style
+J0020,Business Analyst,Helio Retail,Remote,Global,66806.0,process analysis|sql|statistics|power bi|excel|stakeholder management,entry,2023-08-23,sample_kaggle_style
+J0021,Business Analyst,Nova AI,New York,US,66134.0,statistics|process analysis|stakeholder management|power bi|excel|sql,mid,2023-03-08,sample_kaggle_style
+J0022,Basic Accountant,Nova AI,Shenzhen,CN,56980.0,bookkeeping|tax|reporting|excel|erp|reconciliation,senior,2023-02-13,sample_kaggle_style
+J0023,Basic Accountant,Atlas Analytics,Shenzhen,CN,52370.0,erp|bookkeeping|excel|reporting|reconciliation|tax,entry,2023-03-26,sample_kaggle_style
+J0024,Basic Accountant,Northwind Bank,Remote,Global,60493.0,bookkeeping|reporting|reconciliation|tax|excel|erp,mid,2023-06-13,sample_kaggle_style
+J0025,Data Entry Clerk,Atlas Analytics,Remote,Global,43139.0,data entry|crm|excel|quality check|typing|documentation,entry,2023-12-25,sample_kaggle_style
+J0026,Data Entry Clerk,Northwind Bank,New York,US,45082.0,crm|quality check|data entry|typing|documentation|excel,senior,2023-02-12,sample_kaggle_style
+J0027,Data Entry Clerk,BluePeak Tech,Shanghai,CN,40845.0,data entry|quality check|documentation|excel|crm|typing,entry,2023-12-08,sample_kaggle_style
+J0028,Manual Tester,Atlas Analytics,Shanghai,CN,63477.0,api testing|test cases|jira|documentation|manual testing|excel,senior,2023-05-08,sample_kaggle_style
+J0029,Manual Tester,Northwind Bank,New York,US,71869.0,api testing|jira|documentation|excel|manual testing|test cases,mid,2023-03-25,sample_kaggle_style
+J0030,Manual Tester,Atlas Analytics,Shenzhen,CN,64804.0,jira|manual testing|api testing|documentation|test cases|excel,senior,2023-12-24,sample_kaggle_style
+J0031,Financial Analyst,Nova AI,London,UK,81336.0,python|financial modeling|sql|excel|power bi|forecasting,mid,2023-09-17,sample_kaggle_style
+J0032,Financial Analyst,BluePeak Tech,New York,US,91642.0,sql|excel|python|power bi|financial modeling|forecasting,mid,2023-11-26,sample_kaggle_style
+J0033,Financial Analyst,Northwind Bank,Shenzhen,CN,89161.0,excel|financial modeling|sql|python|power bi|forecasting,mid,2023-08-13,sample_kaggle_style
+J0034,Cybersecurity Analyst,Nova AI,Singapore,SG,104454.0,siem|cloud|risk assessment|sql|network security|python,entry,2023-09-19,sample_kaggle_style
+J0035,Cybersecurity Analyst,BluePeak Tech,New York,US,94993.0,python|network security|sql|cloud|risk assessment|siem,mid,2023-04-14,sample_kaggle_style
+J0036,Cybersecurity Analyst,BluePeak Tech,Shanghai,CN,90202.0,risk assessment|siem|network security|sql|python|cloud,mid,2023-09-04,sample_kaggle_style
+J0037,Data Analyst,Atlas Analytics,New York,US,76147.0,statistics|tableau|business analysis|excel|sql|python,senior,2024-09-10,sample_kaggle_style
+J0038,Data Analyst,Nova AI,Shenzhen,CN,71630.0,business analysis|statistics|python|sql|tableau|excel,mid,2024-10-20,sample_kaggle_style
+J0039,Data Analyst,Helio Retail,London,UK,85305.0,tableau|excel|sql|statistics|business analysis|python,senior,2024-11-02,sample_kaggle_style
+J0040,Risk Analyst,Nova AI,Shanghai,CN,96497.0,credit risk|model validation|excel|sql|statistics|python,mid,2024-08-18,sample_kaggle_style
+J0041,Risk Analyst,Atlas Analytics,Remote,Global,87700.0,python|sql|credit risk|statistics|excel|model validation,mid,2024-02-05,sample_kaggle_style
+J0042,Risk Analyst,Atlas Analytics,London,UK,85131.0,python|excel|sql|statistics|credit risk|model validation,senior,2024-05-04,sample_kaggle_style
+J0043,Software Engineer,Atlas Analytics,Remote,Global,112368.0,python|cloud|sql|system design|git|java,senior,2024-02-17,sample_kaggle_style
+J0044,Software Engineer,BluePeak Tech,Shenzhen,CN,107947.0,cloud|python|git|sql|java|system design,entry,2024-05-24,sample_kaggle_style
+J0045,Software Engineer,Atlas Analytics,Remote,Global,112244.0,git|sql|cloud|python|java|system design,senior,2024-08-06,sample_kaggle_style
+J0046,Machine Learning Engineer,Nova AI,London,UK,150039.0,cloud|sql|python|machine learning|pytorch|mlops,mid,2024-02-10,sample_kaggle_style
+J0047,Machine Learning Engineer,BluePeak Tech,London,UK,139943.0,python|sql|mlops|machine learning|pytorch|cloud,entry,2024-04-26,sample_kaggle_style
+J0048,Machine Learning Engineer,Atlas Analytics,New York,US,134194.0,mlops|python|machine learning|sql|cloud|pytorch,mid,2024-10-22,sample_kaggle_style
+J0049,Data Engineer,Atlas Analytics,New York,US,111652.0,sql|cloud|spark|data modeling|python|airflow,entry,2024-11-13,sample_kaggle_style
+J0050,Data Engineer,Nova AI,London,UK,132705.0,python|airflow|sql|spark|cloud|data modeling,entry,2024-05-06,sample_kaggle_style
+J0051,Data Engineer,Nova AI,Shenzhen,CN,123358.0,sql|airflow|python|data modeling|cloud|spark,senior,2024-06-26,sample_kaggle_style
+J0052,Quant Analyst,BluePeak Tech,Shanghai,CN,123932.0,statistics|machine learning|financial modeling|risk modeling|sql|python,mid,2024-02-26,sample_kaggle_style
+J0053,Quant Analyst,Northwind Bank,Shenzhen,CN,126204.0,sql|risk modeling|financial modeling|python|machine learning|statistics,entry,2024-06-23,sample_kaggle_style
+J0054,Quant Analyst,Helio Retail,Singapore,SG,136099.0,machine learning|sql|risk modeling|financial modeling|python|statistics,senior,2024-05-17,sample_kaggle_style
+J0055,Business Analyst,Atlas Analytics,Remote,Global,77740.0,statistics|stakeholder management|power bi|excel|process analysis|sql,mid,2024-01-02,sample_kaggle_style
+J0056,Business Analyst,BluePeak Tech,Shenzhen,CN,71245.0,excel|sql|stakeholder management|statistics|power bi|process analysis,entry,2024-03-06,sample_kaggle_style
+J0057,Business Analyst,Atlas Analytics,Shenzhen,CN,75213.0,process analysis|statistics|sql|excel|stakeholder management|power bi,mid,2024-07-17,sample_kaggle_style
+J0058,Basic Accountant,Atlas Analytics,Shanghai,CN,61106.0,erp|bookkeeping|reconciliation|tax|reporting|excel,senior,2024-09-20,sample_kaggle_style
+J0059,Basic Accountant,BluePeak Tech,Singapore,SG,59959.0,tax|bookkeeping|reconciliation|excel|reporting|erp,entry,2024-02-11,sample_kaggle_style
+J0060,Basic Accountant,Atlas Analytics,New York,US,55164.0,reconciliation|tax|erp|bookkeeping|excel|reporting,mid,2024-10-06,sample_kaggle_style
+J0061,Data Entry Clerk,Northwind Bank,Shanghai,CN,38594.0,documentation|crm|excel|data entry|typing|quality check,mid,2024-11-16,sample_kaggle_style
+J0062,Data Entry Clerk,Atlas Analytics,New York,US,44447.0,excel|quality check|documentation|crm|data entry|typing,senior,2024-04-03,sample_kaggle_style
+J0063,Data Entry Clerk,Atlas Analytics,Singapore,SG,44946.0,excel|typing|documentation|quality check|data entry|crm,mid,2024-01-15,sample_kaggle_style
+J0064,Manual Tester,Northwind Bank,Shenzhen,CN,70788.0,api testing|manual testing|jira|documentation|excel|test cases,senior,2024-12-22,sample_kaggle_style
+J0065,Manual Tester,Northwind Bank,New York,US,66185.0,documentation|excel|manual testing|jira|test cases|api testing,entry,2024-03-22,sample_kaggle_style
+J0066,Manual Tester,Northwind Bank,London,UK,67766.0,test cases|jira|documentation|excel|manual testing|api testing,senior,2024-03-16,sample_kaggle_style
+J0067,Financial Analyst,Atlas Analytics,New York,US,95060.0,python|sql|power bi|financial modeling|excel|forecasting,mid,2024-12-02,sample_kaggle_style
+J0068,Financial Analyst,Helio Retail,Singapore,SG,90190.0,python|excel|forecasting|power bi|financial modeling|sql,senior,2024-09-12,sample_kaggle_style
+J0069,Financial Analyst,BluePeak Tech,New York,US,91562.0,excel|python|forecasting|power bi|sql|financial modeling,entry,2024-05-10,sample_kaggle_style
+J0070,Cybersecurity Analyst,BluePeak Tech,New York,US,106215.0,python|risk assessment|network security|sql|cloud|siem,entry,2024-01-08,sample_kaggle_style
+J0071,Cybersecurity Analyst,Nova AI,London,UK,107162.0,cloud|sql|network security|python|siem|risk assessment,entry,2024-05-26,sample_kaggle_style
+J0072,Cybersecurity Analyst,Helio Retail,Remote,Global,116869.0,cloud|network security|siem|risk assessment|sql|python,senior,2024-06-14,sample_kaggle_style
+J0073,Data Analyst,Nova AI,Shenzhen,CN,82764.0,excel|sql|python|business analysis|tableau|statistics,entry,2025-09-11,sample_kaggle_style
+J0074,Data Analyst,Northwind Bank,Shanghai,CN,87225.0,python|sql|statistics|business analysis|excel|tableau,senior,2025-02-22,sample_kaggle_style
+J0075,Data Analyst,Northwind Bank,Remote,Global,92970.0,excel|statistics|sql|business analysis|tableau|python,entry,2025-12-19,sample_kaggle_style
+J0076,Risk Analyst,Nova AI,Shenzhen,CN,95691.0,credit risk|excel|sql|statistics|model validation|python,entry,2025-02-03,sample_kaggle_style
+J0077,Risk Analyst,Northwind Bank,Shenzhen,CN,90783.0,sql|excel|model validation|credit risk|python|statistics,entry,2025-11-18,sample_kaggle_style
+J0078,Risk Analyst,Helio Retail,Singapore,SG,91988.0,python|model validation|excel|credit risk|statistics|sql,entry,2025-05-09,sample_kaggle_style
+J0079,Software Engineer,Northwind Bank,New York,US,136929.0,cloud|sql|system design|java|git|python,mid,2025-10-21,sample_kaggle_style
+J0080,Software Engineer,Nova AI,New York,US,136283.0,system design|cloud|python|java|sql|git,senior,2025-04-08,sample_kaggle_style
+J0081,Software Engineer,Northwind Bank,Shanghai,CN,127664.0,cloud|system design|git|sql|python|java,mid,2025-12-23,sample_kaggle_style
+J0082,Machine Learning Engineer,BluePeak Tech,New York,US,173352.0,machine learning|sql|pytorch|mlops|python|cloud,entry,2025-03-26,sample_kaggle_style
+J0083,Machine Learning Engineer,Atlas Analytics,London,UK,175139.0,python|mlops|machine learning|cloud|pytorch|sql,senior,2025-11-22,sample_kaggle_style
+J0084,Machine Learning Engineer,Helio Retail,Shanghai,CN,151895.0,mlops|python|cloud|machine learning|pytorch|sql,entry,2025-12-09,sample_kaggle_style
+J0085,Data Engineer,BluePeak Tech,New York,US,151219.0,sql|spark|airflow|data modeling|cloud|python,entry,2025-01-15,sample_kaggle_style
+J0086,Data Engineer,Helio Retail,New York,US,155052.0,sql|data modeling|cloud|spark|airflow|python,senior,2025-11-23,sample_kaggle_style
+J0087,Data Engineer,BluePeak Tech,Shanghai,CN,149643.0,spark|cloud|sql|airflow|python|data modeling,mid,2025-04-23,sample_kaggle_style
+J0088,Quant Analyst,BluePeak Tech,Shanghai,CN,143153.0,sql|python|risk modeling|machine learning|financial modeling|statistics,entry,2025-05-26,sample_kaggle_style
+J0089,Quant Analyst,Northwind Bank,New York,US,161459.0,sql|machine learning|statistics|risk modeling|financial modeling|python,mid,2025-01-14,sample_kaggle_style
+J0090,Quant Analyst,Northwind Bank,Shenzhen,CN,149231.0,statistics|python|machine learning|financial modeling|risk modeling|sql,entry,2025-12-18,sample_kaggle_style
+J0091,Business Analyst,Northwind Bank,New York,US,72172.0,statistics|power bi|stakeholder management|process analysis|excel|sql,senior,2025-09-17,sample_kaggle_style
+J0092,Business Analyst,Northwind Bank,Remote,Global,73128.0,excel|statistics|sql|process analysis|power bi|stakeholder management,entry,2025-01-18,sample_kaggle_style
+J0093,Business Analyst,Northwind Bank,New York,US,82922.0,excel|process analysis|statistics|stakeholder management|sql|power bi,senior,2025-08-23,sample_kaggle_style
+J0094,Basic Accountant,Northwind Bank,New York,US,55573.0,excel|reporting|erp|tax|reconciliation|bookkeeping,mid,2025-05-21,sample_kaggle_style
+J0095,Basic Accountant,Helio Retail,New York,US,62148.0,reporting|tax|erp|bookkeeping|reconciliation|excel,entry,2025-10-25,sample_kaggle_style
+J0096,Basic Accountant,Atlas Analytics,Remote,Global,56990.0,erp|bookkeeping|reporting|tax|excel|reconciliation,senior,2025-05-12,sample_kaggle_style
+J0097,Data Entry Clerk,BluePeak Tech,Shenzhen,CN,39670.0,data entry|documentation|typing|crm|quality check|excel,mid,2025-02-08,sample_kaggle_style
+J0098,Data Entry Clerk,Nova AI,New York,US,44767.0,data entry|typing|crm|quality check|excel|documentation,mid,2025-03-10,sample_kaggle_style
+J0099,Data Entry Clerk,Helio Retail,Remote,Global,38297.0,excel|documentation|quality check|typing|data entry|crm,entry,2025-12-15,sample_kaggle_style
+J0100,Manual Tester,Nova AI,New York,US,70525.0,jira|test cases|api testing|documentation|manual testing|excel,senior,2025-12-01,sample_kaggle_style
+J0101,Manual Tester,Northwind Bank,New York,US,67451.0,jira|documentation|api testing|test cases|manual testing|excel,entry,2025-10-02,sample_kaggle_style
+J0102,Manual Tester,Helio Retail,London,UK,67385.0,documentation|api testing|test cases|manual testing|excel|jira,entry,2025-03-01,sample_kaggle_style
+J0103,Financial Analyst,Atlas Analytics,Singapore,SG,97712.0,python|sql|power bi|excel|forecasting|financial modeling,mid,2025-10-09,sample_kaggle_style
+J0104,Financial Analyst,Northwind Bank,New York,US,102749.0,financial modeling|power bi|python|excel|forecasting|sql,mid,2025-02-02,sample_kaggle_style
+J0105,Financial Analyst,Atlas Analytics,Shenzhen,CN,103366.0,power bi|excel|financial modeling|forecasting|sql|python,mid,2025-12-22,sample_kaggle_style
+J0106,Cybersecurity Analyst,BluePeak Tech,Shenzhen,CN,123619.0,sql|siem|network security|cloud|risk assessment|python,senior,2025-12-16,sample_kaggle_style
+J0107,Cybersecurity Analyst,Northwind Bank,New York,US,121746.0,sql|network security|python|cloud|risk assessment|siem,senior,2025-01-19,sample_kaggle_style
+J0108,Cybersecurity Analyst,Helio Retail,Remote,Global,119008.0,sql|cloud|python|network security|siem|risk assessment,senior,2025-07-11,sample_kaggle_style
+J0109,Data Analyst,Atlas Analytics,Remote,Global,97933.0,business analysis|tableau|sql|python|excel|statistics,entry,2026-09-20,sample_kaggle_style
+J0110,Data Analyst,Northwind Bank,London,UK,97151.0,python|tableau|excel|sql|statistics|business analysis,entry,2026-09-13,sample_kaggle_style
+J0111,Data Analyst,Helio Retail,London,UK,91800.0,sql|excel|business analysis|python|statistics|tableau,mid,2026-03-02,sample_kaggle_style
+J0112,Risk Analyst,Helio Retail,Shanghai,CN,117967.0,python|model validation|credit risk|statistics|sql|excel,senior,2026-02-02,sample_kaggle_style
+J0113,Risk Analyst,Northwind Bank,London,UK,107520.0,excel|sql|credit risk|statistics|python|model validation,senior,2026-05-23,sample_kaggle_style
+J0114,Risk Analyst,Nova AI,Singapore,SG,106583.0,credit risk|model validation|sql|statistics|excel|python,entry,2026-08-02,sample_kaggle_style
+J0115,Software Engineer,Helio Retail,Remote,Global,155063.0,java|system design|sql|cloud|python|git,senior,2026-12-08,sample_kaggle_style
+J0116,Software Engineer,Nova AI,London,UK,151196.0,sql|java|cloud|system design|python|git,mid,2026-08-06,sample_kaggle_style
+J0117,Software Engineer,Northwind Bank,Remote,Global,130983.0,sql|git|python|cloud|system design|java,mid,2026-03-02,sample_kaggle_style
+J0118,Machine Learning Engineer,Northwind Bank,New York,US,189681.0,cloud|machine learning|python|mlops|pytorch|sql,senior,2026-01-02,sample_kaggle_style
+J0119,Machine Learning Engineer,BluePeak Tech,New York,US,183096.0,mlops|cloud|pytorch|sql|python|machine learning,senior,2026-06-18,sample_kaggle_style
+J0120,Machine Learning Engineer,Northwind Bank,Remote,Global,202882.0,mlops|python|sql|pytorch|machine learning|cloud,mid,2026-02-08,sample_kaggle_style
+J0121,Data Engineer,Nova AI,Shenzhen,CN,153517.0,python|data modeling|cloud|spark|sql|airflow,entry,2026-03-22,sample_kaggle_style
+J0122,Data Engineer,Nova AI,Singapore,SG,156871.0,data modeling|sql|airflow|cloud|spark|python,entry,2026-05-02,sample_kaggle_style
+J0123,Data Engineer,Atlas Analytics,New York,US,184662.0,cloud|airflow|spark|sql|python|data modeling,entry,2026-08-05,sample_kaggle_style
+J0124,Quant Analyst,Helio Retail,Remote,Global,163770.0,statistics|machine learning|sql|risk modeling|financial modeling|python,mid,2026-09-25,sample_kaggle_style
+J0125,Quant Analyst,Nova AI,New York,US,171193.0,financial modeling|sql|machine learning|python|risk modeling|statistics,senior,2026-11-17,sample_kaggle_style
+J0126,Quant Analyst,Helio Retail,Remote,Global,173760.0,financial modeling|sql|risk modeling|machine learning|python|statistics,mid,2026-01-21,sample_kaggle_style
+J0127,Business Analyst,Nova AI,Shenzhen,CN,79871.0,excel|statistics|stakeholder management|power bi|process analysis|sql,entry,2026-06-20,sample_kaggle_style
+J0128,Business Analyst,BluePeak Tech,Shenzhen,CN,78816.0,excel|power bi|sql|statistics|process analysis|stakeholder management,senior,2026-06-05,sample_kaggle_style
+J0129,Business Analyst,Northwind Bank,Singapore,SG,85785.0,excel|power bi|stakeholder management|sql|process analysis|statistics,entry,2026-06-22,sample_kaggle_style
+J0130,Basic Accountant,Nova AI,Shanghai,CN,59691.0,reporting|excel|tax|reconciliation|bookkeeping|erp,mid,2026-02-04,sample_kaggle_style
+J0131,Basic Accountant,Nova AI,Shenzhen,CN,62768.0,reconciliation|tax|bookkeeping|excel|erp|reporting,senior,2026-12-26,sample_kaggle_style
+J0132,Basic Accountant,BluePeak Tech,Shanghai,CN,63681.0,tax|reporting|bookkeeping|excel|erp|reconciliation,senior,2026-11-15,sample_kaggle_style
+J0133,Data Entry Clerk,Nova AI,London,UK,42973.0,excel|quality check|data entry|crm|typing|documentation,senior,2026-09-20,sample_kaggle_style
+J0134,Data Entry Clerk,Nova AI,Singapore,SG,37175.0,quality check|typing|excel|documentation|crm|data entry,mid,2026-04-12,sample_kaggle_style
+J0135,Data Entry Clerk,Nova AI,Shanghai,CN,41356.0,typing|data entry|excel|quality check|crm|documentation,mid,2026-12-09,sample_kaggle_style
+J0136,Manual Tester,BluePeak Tech,Remote,Global,72753.0,documentation|jira|test cases|excel|api testing|manual testing,mid,2026-02-25,sample_kaggle_style
+J0137,Manual Tester,Helio Retail,Singapore,SG,63593.0,api testing|test cases|manual testing|excel|documentation|jira,entry,2026-04-26,sample_kaggle_style
+J0138,Manual Tester,Atlas Analytics,New York,US,67865.0,jira|excel|api testing|test cases|documentation|manual testing,entry,2026-10-25,sample_kaggle_style
+J0139,Financial Analyst,Northwind Bank,Remote,Global,97238.0,sql|excel|forecasting|power bi|financial modeling|python,mid,2026-05-23,sample_kaggle_style
+J0140,Financial Analyst,Atlas Analytics,London,UK,99970.0,sql|financial modeling|python|excel|power bi|forecasting,senior,2026-07-01,sample_kaggle_style
+J0141,Financial Analyst,BluePeak Tech,London,UK,103456.0,excel|power bi|financial modeling|python|sql|forecasting,entry,2026-10-07,sample_kaggle_style
+J0142,Cybersecurity Analyst,Helio Retail,New York,US,136294.0,siem|network security|python|cloud|risk assessment|sql,senior,2026-09-03,sample_kaggle_style
+J0143,Cybersecurity Analyst,Atlas Analytics,London,UK,148760.0,sql|siem|cloud|python|network security|risk assessment,mid,2026-06-13,sample_kaggle_style
+J0144,Cybersecurity Analyst,Nova AI,Remote,Global,138673.0,risk assessment|sql|network security|cloud|python|siem,entry,2026-02-23,sample_kaggle_style
