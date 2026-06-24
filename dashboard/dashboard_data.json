@@ -280,7 +280,7 @@
   ],
   "skill_rankings": [
     {
-      "skill": "pytorch",
+      "skill": "mlops",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -289,7 +289,7 @@
       "salary_growth_pct": 57.49
     },
     {
-      "skill": "mlops",
+      "skill": "pytorch",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -316,15 +316,6 @@
       "salary_growth_pct": 50.85
     },
     {
-      "skill": "airflow",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 111658.33,
-      "last_salary_usd": 165016.67,
-      "salary_growth_pct": 47.79
-    },
-    {
       "skill": "spark",
       "first_year": 2023,
       "last_year": 2026,
@@ -335,6 +326,15 @@
     },
     {
       "skill": "data modeling",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 111658.33,
+      "last_salary_usd": 165016.67,
+      "salary_growth_pct": 47.79
+    },
+    {
+      "skill": "airflow",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -406,15 +406,6 @@
       "salary_growth_pct": 36.51
     },
     {
-      "skill": "system design",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 106986.0,
-      "last_salary_usd": 145747.33,
-      "salary_growth_pct": 36.23
-    },
-    {
       "skill": "java",
       "first_year": 2023,
       "last_year": 2026,
@@ -433,6 +424,15 @@
       "salary_growth_pct": 36.23
     },
     {
+      "skill": "system design",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 106986.0,
+      "last_salary_usd": 145747.33,
+      "salary_growth_pct": 36.23
+    },
+    {
       "skill": "financial modeling",
       "first_year": 2023,
       "last_year": 2026,
@@ -440,15 +440,6 @@
       "first_salary_usd": 99894.83,
       "last_salary_usd": 134897.83,
       "salary_growth_pct": 35.04
-    },
-    {
-      "skill": "model validation",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 82162.0,
-      "last_salary_usd": 110690.0,
-      "salary_growth_pct": 34.72
     },
     {
       "skill": "credit risk",
@@ -460,7 +451,16 @@
       "salary_growth_pct": 34.72
     },
     {
-      "skill": "tableau",
+      "skill": "model validation",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 82162.0,
+      "last_salary_usd": 110690.0,
+      "salary_growth_pct": 34.72
+    },
+    {
+      "skill": "business analysis",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -469,7 +469,7 @@
       "salary_growth_pct": 29.21
     },
     {
-      "skill": "business analysis",
+      "skill": "tableau",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -523,25 +523,16 @@
       "salary_growth_pct": 14.7
     },
     {
-      "skill": "erp",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 56614.33,
-      "last_salary_usd": 62046.67,
-      "salary_growth_pct": 9.6
-    },
-    {
-      "skill": "reconciliation",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 56614.33,
-      "last_salary_usd": 62046.67,
-      "salary_growth_pct": 9.6
-    },
-    {
       "skill": "reporting",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 56614.33,
+      "last_salary_usd": 62046.67,
+      "salary_growth_pct": 9.6
+    },
+    {
+      "skill": "erp",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -559,6 +550,15 @@
       "salary_growth_pct": 9.6
     },
     {
+      "skill": "reconciliation",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 56614.33,
+      "last_salary_usd": 62046.67,
+      "salary_growth_pct": 9.6
+    },
+    {
       "skill": "tax",
       "first_year": 2023,
       "last_year": 2026,
@@ -566,6 +566,15 @@
       "first_salary_usd": 56614.33,
       "last_salary_usd": 62046.67,
       "salary_growth_pct": 9.6
+    },
+    {
+      "skill": "manual testing",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 66716.67,
+      "last_salary_usd": 68070.33,
+      "salary_growth_pct": 2.03
     },
     {
       "skill": "api testing",
@@ -578,15 +587,6 @@
     },
     {
       "skill": "test cases",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 66716.67,
-      "last_salary_usd": 68070.33,
-      "salary_growth_pct": 2.03
-    },
-    {
-      "skill": "manual testing",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -613,16 +613,7 @@
       "salary_growth_pct": -1.06
     },
     {
-      "skill": "typing",
-      "first_year": 2023,
-      "last_year": 2026,
-      "posting_count": 12,
-      "first_salary_usd": 43022.0,
-      "last_salary_usd": 40501.33,
-      "salary_growth_pct": -5.86
-    },
-    {
-      "skill": "data entry",
+      "skill": "quality check",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -640,7 +631,16 @@
       "salary_growth_pct": -5.86
     },
     {
-      "skill": "quality check",
+      "skill": "typing",
+      "first_year": 2023,
+      "last_year": 2026,
+      "posting_count": 12,
+      "first_salary_usd": 43022.0,
+      "last_salary_usd": 40501.33,
+      "salary_growth_pct": -5.86
+    },
+    {
+      "skill": "data entry",
       "first_year": 2023,
       "last_year": 2026,
       "posting_count": 12,
@@ -673,7 +673,7 @@
       "future_demand_score": 83.35,
       "risk_band": "Low",
       "skill_match_score": 50.0,
-      "matched_skills": "sql|python|statistics",
+      "matched_skills": "statistics|python|sql",
       "recommended_skills": "financial modeling|machine learning|risk modeling",
       "student_fit_score": 69.61
     },
@@ -700,7 +700,7 @@
       "future_demand_score": 81.1,
       "risk_band": "Low",
       "skill_match_score": 50.0,
-      "matched_skills": "sql|statistics|python",
+      "matched_skills": "python|statistics|sql",
       "recommended_skills": "excel|credit risk|model validation",
       "student_fit_score": 67.68
     },
@@ -728,7 +728,7 @@
       "risk_band": "Low",
       "skill_match_score": 33.33,
       "matched_skills": "sql|python",
-      "recommended_skills": "mlops|pytorch|cloud|machine learning",
+      "recommended_skills": "machine learning|pytorch|cloud|mlops",
       "student_fit_score": 65.97
     },
     {
@@ -755,7 +755,7 @@
       "risk_band": "Low",
       "skill_match_score": 33.33,
       "matched_skills": "python|sql",
-      "recommended_skills": "siem|risk assessment|cloud|network security",
+      "recommended_skills": "risk assessment|network security|cloud|siem",
       "student_fit_score": 65.86
     },
     {
@@ -781,8 +781,8 @@
       "future_demand_score": 86.95,
       "risk_band": "Low",
       "skill_match_score": 33.33,
-      "matched_skills": "sql|python",
-      "recommended_skills": "data modeling|spark|cloud|airflow",
+      "matched_skills": "python|sql",
+      "recommended_skills": "spark|data modeling|cloud|airflow",
       "student_fit_score": 65.63
     },
     {
@@ -808,8 +808,8 @@
       "future_demand_score": 77.35,
       "risk_band": "Low",
       "skill_match_score": 50.0,
-      "matched_skills": "python|statistics|sql",
-      "recommended_skills": "business analysis|excel|tableau",
+      "matched_skills": "sql|python|statistics",
+      "recommended_skills": "business analysis|tableau|excel",
       "student_fit_score": 64.75
     }
   ]

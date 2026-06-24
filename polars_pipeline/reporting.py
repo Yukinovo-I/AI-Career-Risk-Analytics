@@ -81,7 +81,7 @@ def build_markdown_report(model: CareerRiskModel, output_path: Path = DOCS_DIR /
         "## 项目摘要",
         "",
         "本项目将职位数据、O*NET职业技能框架和薪资/岗位趋势合并为一个可解释的职业风险评分系统。",
-        "模型面向大学生职业选择场景，输出职业AI风险、未来需求、技能价值排名和个人技能投资建议。",
+        "模型面向AI时代的职业选择场景，输出职业AI风险、未来需求、技能价值排名和技能投资建议。",
         "",
         "## 模型公式",
         "",
@@ -117,7 +117,7 @@ def build_markdown_report(model: CareerRiskModel, output_path: Path = DOCS_DIR /
         "",
         "## 数据边界",
         "",
-        "仓库默认使用可复现样例数据。真实项目中可替换为 Kaggle 职位数据、O*NET 30.3 技能数据、BLS职业展望数据，以及合规获取的招聘平台数据。",
+        "本版本使用可复现实验数据集验证方法链路。严肃预测应替换为当前、可追溯、合规获取的职位、O*NET、BLS和招聘平台数据。",
     ]
     output_path.write_text("\n".join(lines), encoding="utf-8")
     return output_path
@@ -191,8 +191,8 @@ def build_pdf_report(model: CareerRiskModel, output_path: Path = PROJECT_ROOT / 
         ),
         Paragraph("Data Boundary", styles["Section"]),
         Paragraph(
-            "The repository ships with reproducible sample data. Replace it with Kaggle, O*NET, BLS, and compliant "
-            "job-platform exports for real-world analysis.",
+            "This version uses a reproducible demonstration dataset to validate the workflow. Serious forecasting "
+            "should replace it with current, traceable, and compliant labor-market data.",
             styles["Small"],
         ),
     ]
@@ -221,7 +221,7 @@ def _dataframe_table(frame: pl.DataFrame, font_name: str) -> Table:
 
 def _markdown_table(frame: pl.DataFrame) -> str:
     rows = [[str(column) for column in frame.columns]]
-    rows.extend([[_format_cell(value) for value in row.values()] for row in frame.to_dicts()])
+    rows.extend([[_format_markdown_cell(value) for value in row.values()] for row in frame.to_dicts()])
     widths = [max(len(row[idx]) for row in rows) for idx in range(len(rows[0]))]
     lines = [
         "| " + " | ".join(cell.ljust(widths[idx]) for idx, cell in enumerate(rows[0])) + " |",
@@ -236,6 +236,10 @@ def _format_cell(value: object) -> str:
     if isinstance(value, float):
         return f"{value:.2f}"
     return "" if value is None else str(value)
+
+
+def _format_markdown_cell(value: object) -> str:
+    return _format_cell(value).replace("|", ", ")
 
 
 def _register_cjk_font() -> str:
